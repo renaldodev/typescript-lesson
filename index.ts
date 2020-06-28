@@ -92,4 +92,6 @@ class Reanaldo<T extends String| Number,K,V>{
   
 }
 
-Print<string>("Reenaldo")
+Print<string>("Reenaldo");
+
+console.log("novo teste")
